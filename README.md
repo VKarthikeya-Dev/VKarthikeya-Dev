@@ -1,7 +1,3 @@
-<table>
-<tr>
-<td valign="top">
-
 <h1 align="left">Hi there, I'm <span style="font-size: 2em; font-weight: bold;">V Karthikeya</span> 👋</h1>
 <h3 align="left">🚀 Aspiring DevOps Engineer</h3>
 
@@ -28,10 +24,4 @@
 <a href="https://github.com/VKarthikeya-Dev" target="_blank">
   <img src="Github-desktop-logo-symbol.svg.png" alt="GitHub" width="30"/>
 </a>
-
-</td>
-<td>
-  <img src="devops logo.jpg" width="300"/>
-</td>
-</tr>
-</table>
+<img src="devops logo.jpg" width="300"/>
