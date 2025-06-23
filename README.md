@@ -1,16 +1,31 @@
-## Hi there 👋
+<table>
+<tr>
+<td valign="top">
 
-<!--
-**VKarthikeya-Dev/VKarthikeya-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left">Hi there, I'm <span style="font-size: 2em; font-weight: bold;">Karthikeya</span> 👋</h1>
+<h3 align="left">🚀 Aspiring DevOps Engineer</h3>
 
-Here are some ideas to get you started:
+🎓 I'm currently completing my B.E in Electronics and Communication Engineering (ECE) and will graduate in **May 2025**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ I can **create, deploy, automate, and test** cloud-based infrastructure.
+
+🌱 Currently learning **Infrastructure as Code (IaC)** tools like Terraform and Ansible.
+
+🎯 I'm actively seeking **DevOps job opportunities**, exciting challenges, and new learning experiences in the cloud engineering domain.
+
+📫 **Connect with me**:
+
+<a href="https://www.linkedin.com/in/vk191003" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/VKarthikeya-Dev" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30"/>
+</a>
+
+</td>
+<td>
+  <img src="https://cdn.dribbble.com/users/2100954/screenshots/15663502/media/36fd290bdc7aaaf6ad4897d5b7fe43cb.gif" width="300"/>
+</td>
+</tr>
+</table>
