@@ -24,4 +24,5 @@
 <a href="https://github.com/VKarthikeya-Dev" target="_blank">
   <img src="Github-desktop-logo-symbol.svg.png" alt="GitHub" width="30"/>
 </a>
-<img src="devops logo.jpg" width="300"/>
+<img align="right" height="350" width="350"src="devops logo.jpg" width="300"/>
+
