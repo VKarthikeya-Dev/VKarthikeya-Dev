@@ -1,7 +1,8 @@
 <h1 align="left">Hi there, I'm <span style="font-size: 2em; font-weight: bold;">V Karthikeya</span> 👋</h1>
 <h3 align="left">🚀 Aspiring DevOps Engineer</h3>
+<img align="right" height="450" width="500"src="devops_logo2-removebg-preview.png" />
 
-🎓 I'm currently completing my B.E in Electronics and Communication Engineering (ECE) and  graduated in **May 2025**.
+🎓 I completed my B.E in Electronics and Communication Engineering (ECE) and  graduated in **May 2025**.
 
 🛠️ I can **create, deploy, automate, and test** cloud-based infrastructure.
 
@@ -15,14 +16,12 @@
 
 🎯 I'm actively seeking **DevOps job opportunities**, exciting challenges, and new learning experiences in the cloud engineering domain.
 
-📫 **Connect with me**:
+<h3>Social & Coding Profiles<h3>
+<a href="https://www.linkedin.com/in/vk191003">
+  <img src="linked-in.svg" alt="LinkedIn" height="40" width="40"/>
+</a>
+<a href="https://github.com/VKarthikeya-Dev">
+  <img src="Github-desktop-logo-symbol.svg.png" alt="GitHub" height="40" width="40"/>
+</a>
 
-<a href="https://www.linkedin.com/in/vk191003" target="_blank">
-  <img src="linked-in.svg" alt="LinkedIn" width="30"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/VKarthikeya-Dev" target="_blank">
-  <img src="Github-desktop-logo-symbol.svg.png" alt="GitHub" width="30"/>
-</a>
-<img align="right" height="350" width="350"src="devops logo.jpg" width="300"/>
 
