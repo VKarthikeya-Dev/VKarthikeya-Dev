@@ -31,7 +31,7 @@
 
 </td>
 <td>
-  <img src="https://cdn.dribbble.com/users/2100954/screenshots/15663502/media/36fd290bdc7aaaf6ad4897d5b7fe43cb.gif" width="300"/>
+  <img src="devops logo.jpg" width="300"/>
 </td>
 </tr>
 </table>
