@@ -7,7 +7,7 @@
 🛠️ I can **create, deploy, automate, and test** cloud-based infrastructure.
 
 🛠️ **Skills:**  
-- Version Control Systemn: Git, GitHub.  
+- Version Control System: Git, GitHub.  
 - Frontend Stack: HTML5, CSS 
 - OS: Windows, Linux distros(RHEL9,Ubuntu) 
 - DevOps Stack: Linux, Bash Scripting, Ansible.
