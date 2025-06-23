@@ -20,7 +20,7 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/VKarthikeya-Dev" target="_blank">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AGithub-desktop-logo-symbol.svg&psig=AOvVaw0rvkl_yXDn9NVN5p84tAkc&ust=1750731873703000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJirps--ho4DFQAAAAAdAAAAABAE.svg" alt="GitHub" width="30"/>
+  <img src="Github-desktop-logo-symbol.svg.png" alt="GitHub" width="30"/>
 </a>
 
 </td>
