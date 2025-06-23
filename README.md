@@ -18,7 +18,7 @@
 📫 **Connect with me**:
 
 <a href="https://www.linkedin.com/in/vk191003" target="_blank">
-  <img src="linkedin.png" alt="LinkedIn" width="30"/>
+  <img src="linked-in.svg" alt="LinkedIn" width="30"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/VKarthikeya-Dev" target="_blank">
