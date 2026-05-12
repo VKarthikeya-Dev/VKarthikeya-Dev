@@ -104,12 +104,10 @@ My long-term goal is to engineer reliable and scalable AI-powered infrastructure
 
 ---
 
-## 📈 GitHub Analytics
+## 🔥 GitHub Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VKarthikeya-Dev&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VKarthikeya-Dev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=VKarthikeya-Dev&theme=github-dark&hide_border=true" />
 </p>
 
 ---
@@ -118,8 +116,6 @@ My long-term goal is to engineer reliable and scalable AI-powered infrastructure
 <a href="https://www.linkedin.com/in/vk191003">
   <img src="assets/linked-in.svg" alt="LinkedIn" height="40" width="40"/>
 </a>
-<a href="https://github.com/VKarthikeya-Dev">
-  <img src="assets/github.png" alt="GitHub" height="40" width="40"/>
-</a>
+
 
 
