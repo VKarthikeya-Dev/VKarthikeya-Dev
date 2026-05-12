@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm V Karthikeya</h1>
+<h1 align="center">Hi 👋, I'm Karthikeya</h1>
 
 <h3 align="center">
 Building toward Cloud Infrastructure, DevOps, and AI Systems Engineering
