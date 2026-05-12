@@ -117,7 +117,7 @@ My long-term goal is to engineer reliable and scalable AI-powered infrastructure
   <img src="assets/linked-in.svg" alt="LinkedIn" height="40" width="40"/>
 </a>
 <a href="https://www.youtube.com/@TechSimplifiedwithVK">
-  <img src="assets/yt logo.png" alt="LinkedIn" height="40" width="40"/>
+  <img src="assets/yt logo 2.png" alt="LinkedIn" height="40" width="40"/>
 </a>
 
 
