@@ -111,7 +111,7 @@ My long-term goal is to engineer reliable and scalable AI-powered infrastructure
 
 ---
 
-<h3>Social & Coding Profiles<h3>
+<h3>Connect with Me🌐<h3>
 <a href="https://www.linkedin.com/in/vk191003">
   <img src="assets/linked-in.svg" alt="LinkedIn" height="40" width="40"/>
 </a>
