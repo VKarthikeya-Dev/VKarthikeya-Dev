@@ -10,7 +10,6 @@ Building toward Cloud Infrastructure, DevOps, and AI Systems Engineering
 
 🎓 B.E. in Electronics & Communication Engineering (ECE)  
 🧠 Minor Specialization in Artificial Intelligence  
-🎯 Incoming MSCS Student at University at Buffalo — Fall 2026  
 
 I’m passionate about understanding how modern systems are designed, automated, deployed, and scaled.
 
