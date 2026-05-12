@@ -116,6 +116,8 @@ My long-term goal is to engineer reliable and scalable AI-powered infrastructure
 <a href="https://www.linkedin.com/in/vk191003">
   <img src="assets/linked-in.svg" alt="LinkedIn" height="40" width="40"/>
 </a>
-
+<a href="https://www.youtube.com/@TechSimplifiedwithVK">
+  <img src="assets/linked-in.svg" alt="LinkedIn" height="40" width="40"/>
+</a>
 
 
