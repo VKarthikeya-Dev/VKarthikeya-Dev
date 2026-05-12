@@ -1,46 +1,37 @@
 <h1 align="center">Hi 👋, I'm Karthikeya</h1>
 
 <h3 align="center">
-Building toward Cloud Infrastructure, DevOps, and AI Systems Engineering
+Cloud Infrastructure • DevOps • AI Systems Engineering
 </h3>
+
+<p align="center">
+Building scalable systems, automation workflows, and cloud-native infrastructure.
+</p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 B.E. in Electronics & Communication Engineering (ECE)  
-🧠 Minor Specialization in Artificial Intelligence  
-
-I’m passionate about understanding how modern systems are designed, automated, deployed, and scaled.
-
-My current exploration revolves around:
+Engineering-focused ECE graduate with a specialization in Artificial Intelligence, building expertise across:
 
 - Cloud Infrastructure & DevOps
-- Linux & Automation
-- Infrastructure as Code (Terraform)
-- AWS Ecosystem
-- CI/CD Pipelines
+- Linux Systems & Automation
+- Infrastructure as Code
 - Containers & Orchestration
-- MLOps & AIOps
-- Backend Systems & Scalable Architectures
-- C++ & Data Structures for systems-level problem solving
+- AI Infrastructure & MLOps
+- Scalable Backend Systems
 
-Rather than just learning tools, I focus on:
-- understanding how real systems work,
-- identifying beginner pain points,
-- building practical projects,
-- and documenting insights along the journey.
+Focused on practical engineering, real-world system design, and production-oriented infrastructure.
 
 ---
 
-## 📌 Featured Areas
+## 📌 Core Focus Areas
 
-- Cloud Infrastructure
-- DevOps Automation
-- Linux Engineering
-- AI Infrastructure
-- MLOps & AIOps
-- Scalable Backend Systems
+- Cloud & Platform Engineering  
+- DevOps Automation  
+- Linux Engineering  
+- AI Infrastructure  
+- MLOps & Scalable Systems  
 
 ---
 
@@ -63,43 +54,13 @@ Rather than just learning tools, I focus on:
 
 ---
 
-## 📚 What You'll Find Here
+## 🎯 Current Direction
 
-This GitHub is where I:
-
-- Build real-world projects
-- Explore cloud and infrastructure engineering
-- Share practical insights and learning notes
-- Break down beginner pain points
-- Experiment with automation and scalable systems
-- Document my journey into AI Infrastructure and MLOps
-
-I believe strong engineers don’t just consume knowledge — they build, test, document, and teach.
-
----
-
-## 🎯 Current Focus
-
-- Deepening Linux & DevOps fundamentals
-- Building cloud-native projects
-- Exploring AI Infrastructure & MLOps
-- Strengthening problem-solving with C++ & DSA
-- Expanding into scalable backend systems
-
----
-
-## 🌍 Long-Term Direction
-
-I’m particularly interested in:
-
-- AI Infrastructure
-- Distributed Systems
-- Platform Engineering
-- Intelligent Automation
-- Cloud-Native Architectures
-- Scalable ML Systems
-
-My long-term goal is to engineer reliable and scalable AI-powered infrastructure systems.
+- Cloud-Native Infrastructure  
+- DevOps & CI/CD Automation  
+- Kubernetes & Container Ecosystems  
+- AI Infrastructure & MLOps  
+- Backend & Distributed Systems  
 
 ---
 
@@ -111,12 +72,12 @@ My long-term goal is to engineer reliable and scalable AI-powered infrastructure
 
 ---
 
-<h3>Connect with Me🌐<h3>
+<h3>Connect with Me 🌐</h3>
+
 <a href="https://www.linkedin.com/in/vk191003">
   <img src="assets/linked-in.svg" alt="LinkedIn" height="40" width="40"/>
 </a>
+
 <a href="https://www.youtube.com/@TechSimplifiedwithVK">
-  <img src="assets/yt logo 2.png" alt="LinkedIn" height="40" width="40"/>
+  <img src="assets/yt logo 2.png" alt="YouTube" height="40" width="40"/>
 </a>
-
-
